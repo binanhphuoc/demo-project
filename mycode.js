@@ -1,3 +1,0 @@
-myfunc = () => {
-    console.log("myfunc");
-}
